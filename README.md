@@ -1,13 +1,13 @@
-— Java Core и базовые знания ООП
-— Среда разработки Intellij IDEA
-— Apache Maven для сборки проекта
-— Контроль версий Git (Gitlab, Github)
-— Spring Framework: Boot/MVC
-— Аутентификация, авторизация Spring Secutiry
-— Реляционные СУБД: PostgreSQL
-— REST (Swagger)
-— ORM: Hibernate(JPA) + Spring Data
-— Docker
+*— Java Core и базовые знания ООП
+*— Среда разработки Intellij IDEA
+*— Apache Maven для сборки проекта
+*— Контроль версий Git (Gitlab, Github)
+*— Spring Framework: Boot/MVC
+*— Аутентификация, авторизация Spring Secutiry
+*— Реляционные СУБД: PostgreSQL
+*— REST (Swagger)
+*— ORM: Hibernate(JPA) + Spring Data
+*— Docker
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Verbluda)](https://leetcode.com/Verbluda)
 
