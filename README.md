@@ -11,7 +11,7 @@
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Verbluda)](https://leetcode.com/Verbluda)
 
-JavaRush 41 уровень
+JavaRush 41 уровень, 889 задач
 
 Проф переподготовка в СберУниверситете программа Java Developer
 
