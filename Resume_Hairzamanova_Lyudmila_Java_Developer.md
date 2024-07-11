@@ -11,7 +11,7 @@
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Verbluda)](https://leetcode.com/Verbluda)
 
-JavaRush 41 уровень, 889 задач
+JavaRush 41 уровень, решено 889 задач (Курсы: Java Syntax Pro, Java Core, Java Multithreading)
 
 Проф.переподготовка в СберУниверситете - программа Java Developer
 
